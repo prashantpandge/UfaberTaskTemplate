@@ -1,0 +1,95 @@
+.color{
+	
+	background-color:#FFF5EE;
+	
+	
+}
+
+.text{
+	font-family: Helvetica, sans-serif;
+
+	font-size:30px;
+	margin-top:80px;
+	margin-left:200px;
+	font-weight:bold;
+}
+
+.image{
+	background-image:url("picture.png");
+	height:200px;
+	width:350px;
+	font-family:Trirong;
+	font-size:20px;
+	color:white;
+}
+
+.card{
+	float:right;
+	margin-top:20px;
+	
+	
+	margin-left:20px;
+	border-style:circle;
+}
+h4{
+	color:red;
+	text-align:center;
+	font-size:30px;
+}
+h2{
+	text-align:center;
+}
+
+.button{
+	
+  background-color: #00008b	; 
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width:400px;
+}
+h6{
+	font-size:10px;
+	text-align:center;
+}
+
+h2{
+	text-align:center:
+	
+}
+.head{
+	text-align:center;
+	font-size:30px;
+	background-color:#FFF5EE;
+	font-family:Trirong;
+}
+
+.text{
+	font-size:20px;
+}
+.text1{
+	float:right;
+	font-size:20px;
+	font-weight:bold;
+}
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.cc{
+	background-color:#FFF5EE;
+	
+}
+.boxes{
+	float="center"
+}
+.button4 {background-color: orange;} 
+.button3 {background-color: red;}
